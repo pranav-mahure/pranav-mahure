@@ -28,7 +28,7 @@
 <br/>
 
 <div align="center">
-<a href="https://github.com/Danushka-Madushan">
+<a href="https://github.com/pranav-mahure">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranav-mahure&theme=dark&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-mahure&theme=dark&layout=compact"/>
 </a>
