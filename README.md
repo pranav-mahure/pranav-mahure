@@ -6,8 +6,7 @@
 
 <h3>About Me </h3>
 
-- 🎓 Studying Computer Science and Programming Languages. Also Interested in **Python.**
-- 💼 Currently Studying at @ **GHRCE**.
+- 🎓 Studying Computer Science and Programming Languages. Also Interested in **building with AI**
 - 🌱 Learning more about **ML Technologies, APIs and Automation**.
 - 🤖 Currently exploring **Machine Learning and Deep Learning with PyTorch**.
 - 🌐 Interested in **Open Source and contributing to real-world projects**.
