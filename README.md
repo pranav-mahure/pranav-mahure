@@ -32,13 +32,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=for-the-badge&logo=markdown)
 <br/>
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-<br/>
 
-<h3> <b>Open Source Contributions </b></h3>
-
-- 🔧 **PyTorch Deep Learning** — Contributed to [`mrdbourke/pytorch-deep-learning`](https://github.com/mrdbourke/pytorch-deep-learning) by fixing GitHub rendering issues in two Jupyter notebooks.
-
-<br/>
 
 <div align="center">
 <a href="https://github.com/pranav-mahure">
